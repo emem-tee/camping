@@ -4,3 +4,5 @@
 # (The envirnoment of this script)
 
 # Create a histogram or bar chart of one of the variables
+
+hist(mtcars$mpg)
